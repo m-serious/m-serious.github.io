@@ -41,11 +41,7 @@ Core Competencies:
 • Reinforcement Learning: Online/Offline RL, Reward Engineering, Curriculum Learning
 • LLM Specializations: Multimodality (LVLM), Temporal Reasoning, Persuasive AI, AI Safety
 
-I am passionate about engaging with fellow researchers and practitioners. I am always open to discussing new research, challenges, and potential collaborations!
+I am passionate about engaging with fellow researchers and practitioners. I am always open to discussing new research, challenges, and potential collaborations!
 
-<span style="color: red;">I will be on the job market starting in Winter 2026. If you believe I might be a good fit for your institution or organization, I’d love to connect!</span>
+<span style="color: red;">I will be on the job market starting in Winter 2026. If you believe I might be a good fit for your institution or organization, I'd love to connect!</span>
 
-## **Awards**
-
-• **2024** - **National Scholarship for Doctoral Students** (Top 1%)
-• **2024** - **Excellent student of Tongji University** (Top 1%)
