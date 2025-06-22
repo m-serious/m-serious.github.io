@@ -193,7 +193,7 @@
         </a>
       {% endif %}
       {% if entry.abstract %}
-        <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+        <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
       {% endif %}
       {% if entry.doi %}
         <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
@@ -206,7 +206,7 @@
       {% endif %}
       {% if entry.html %}
         {% if entry.html contains '://' %}
-          <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
+          <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">Paper</a>
         {% else %}
           <a href="{{ entry.html | prepend: '/assets/html/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
         {% endif %}
@@ -252,6 +252,27 @@
       {% endif %}
       {% if entry.website %}
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
+      {% endif %}
+      {% if entry.model %}
+        {% if entry.model contains '://' %}
+          <a href="{{ entry.model }}" class="btn btn-sm z-depth-0" role="button">Model</a>
+        {% else %}
+          <a href="{{ entry.model | relative_url }}" class="btn btn-sm z-depth-0" role="button">Model</a>
+        {% endif %}
+      {% endif %}
+      {% if entry.dataset %}
+        {% if entry.dataset contains '://' %}
+          <a href="{{ entry.dataset }}" class="btn btn-sm z-depth-0" role="button">Dataset</a>
+        {% else %}
+          <a href="{{ entry.dataset | relative_url }}" class="btn btn-sm z-depth-0" role="button">Dataset</a>
+        {% endif %}
+      {% endif %}
+      {% if entry.coverage %}
+        {% if entry.coverage contains '://' %}
+          <a href="{{ entry.coverage }}" class="btn btn-sm z-depth-0" role="button">Coverage</a>
+        {% else %}
+          <a href="{{ entry.coverage | relative_url }}" class="btn btn-sm z-depth-0" role="button">Coverage</a>
+        {% endif %}
       {% endif %}
     </div>
     {% if site.enable_publication_badges %}

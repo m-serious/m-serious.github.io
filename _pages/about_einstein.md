@@ -1,5 +1,15 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student at Tongji University, advised by Prof. Gang Yan, and a visiting researcher at the University of Illinois Urbana-Champaign (UIUC), advised by Prof. [Heng Ji](https://blender.cs.illinois.edu/hengji.html), Prof. [Dilek Hakkani-Tur](https://siebelschool.illinois.edu/about/people/faculty/dilek), and Prof. [Jiaxuan You](https://cs.stanford.edu/people/jiaxuan/). My research is centered on pushing the boundaries of what Large Language Models (LLMs) can achieve, with a focus on building more capable, general, and responsible AI agents through advanced Reinforcement Learning.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My recent achievement is leading the [Time-R1](https://arxiv.org/abs/2505.13508) project, where my novel RL framework empowered a 3B model to outperform models 200x larger on challenging temporal reasoning benchmarks. This work underscores my expertise in creating highly efficient training pipelines that prioritize sophistication over sheer scale.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My experience also includes:
+• Architecting general-purpose agent frameworks like [OpenManus](https://github.com/FoundationAgents/OpenManus) to enhance strategic planning and generalization.
+• Integrating robust safety and ethical layers into AI scientist agents through the [SafeScientist](https://arxiv.org/abs/2505.23559) framework.
+• Designing [persuasive agents](https://arxiv.org/abs/2505.22961) with Theory of Mind to improve their interaction capabilities.
+
+Core Competencies:
+• Agentic AI: Reasoning, Planning, Memory, Generalization 
+• Reinforcement Learning: Online/Offline RL, Reward Engineering, Curriculum Learning
+• LLM Specializations: Multimodality (LVLM), Temporal Reasoning, Persuasive AI, AI Safety
+
+I am passionate about engaging with fellow researchers and practitioners. I am always open to discussing new research, challenges, and potential collaborations!
