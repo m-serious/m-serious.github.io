@@ -18,10 +18,10 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "Redirecting to CV...",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/https:/drive.google.com/file/d/1_fKAusPmqkLvKxWHBygeUA0Se-cFrVFz/view?usp=sharing";
           },
         },{id: "post-a-post-with-plotly-js",
         
