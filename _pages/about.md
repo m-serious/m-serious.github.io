@@ -16,15 +16,6 @@ profile:
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
-announcements:
-  enabled: false # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: False
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
 I am a PhD student at Tongji University, advised by Prof. Gang Yan, and a visiting researcher at the University of Illinois Urbana-Champaign (UIUC), advised by Prof. [Heng Ji](https://blender.cs.illinois.edu/hengji.html), Prof. [Dilek Hakkani-Tur](https://siebelschool.illinois.edu/about/people/faculty/dilek), and Prof. [Jiaxuan You](https://cs.stanford.edu/people/jiaxuan/). My research is centered on pushing the boundaries of what Large Language Models (LLMs) can achieve, with a focus on building more capable, general, and responsible AI agents through advanced Reinforcement Learning.
@@ -45,3 +36,7 @@ I am passionate about engaging with fellow researchers and practitioners. I am a
 
 <span style="color: red;">I will be on the job market starting in Winter 2026. If you believe I might be a good fit for your institution or organization, I'd love to connect!</span>
 
+## **Awards**
+
+• **2024** - **National Scholarship for Doctoral Students** (Top 1%)
+• **2024** - **Excellent student of Tongji University** (Top 1%)
