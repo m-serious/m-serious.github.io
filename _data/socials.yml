@@ -19,7 +19,11 @@ email: zliu331@illinois.edu # your email address
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-linkedin_username: zijia-liu-771137334 # your LinkedIn user name
+# linkedin_username: zijia-liu-771137334 # your LinkedIn user name
+LinkedIn: # can be any name here other than the ones already defined above
+  logo: /assets/img/linkin.png # can be png, svg, jpg
+  title: LinkedIn
+  url: https://www.linkedin.com/in/zijia-liu-771137334/
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 # orcid_id: # your ORCID ID
@@ -46,6 +50,6 @@ scholar_userid: 17f5_L4AAAAJ # your Google Scholar ID
 github_username: m-serious # your GitHub user name
 hugging_face: # can be any name here other than the ones already defined above
   logo: https://huggingface.co/front/assets/huggingface_logo-noborder.svg # can be png, svg, jpg
-  title: hugging face account
+  title: Hugging Face
   url: https://huggingface.co/m-serious
 x_username: xwzliuzijia # your X handle

@@ -2,16 +2,15 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Zijia Liu # the website title (if blank, full name will be used instead)
+title: <strong>Zijia Liu (刘子嘉)</strong> # the website title (if blank, full name will be used instead)
 first_name: Zijia
 middle_name: # optional middle name
 last_name: Liu
 contact_note: >
-  Feel free to reach out! I'm always open to discussing new ideas and collaborations.
+  Feel free to reach out! I'm always open to discussing new ideas, collaborations, and jobs.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A PhD student at Tongji University and a visiting scholar at the University of Illinois Urbana-Champaign (UIUC), focusing on Agentic AI and Multimodal Representation Learning.
 footer_text: >
-  &copy; 2025 Zijia Liu.
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">a nice theme</a>.
 keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
