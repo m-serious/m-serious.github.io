@@ -433,11 +433,11 @@ ninja.data = [{
           window.open("mailto:%7A%6C%69%75%33%33%31@%69%6C%6C%69%6E%6F%69%73.%65%64%75", "_blank");
         },
       },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
+        id: 'social-LinkedIn',
+        title: 'Linkedin',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/zijia-liu-771137334", "_blank");
+          window.open("https://www.linkedin.com/in/zijia-liu-771137334/", "_blank");
         },
       },{
         id: 'social-scholar',
