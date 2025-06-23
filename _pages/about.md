@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Email: zliu331[at]illinois[dot]edu
+subtitle: "Email: zliu331[at]illinois[dot]edu"
 
 profile:
   align: right
@@ -22,15 +22,15 @@ I am a PhD student at Tongji University, advised by Prof. Gang Yan, and a visiti
 
 My recent achievement is leading the [Time-R1](https://arxiv.org/abs/2505.13508) project, where my novel RL framework empowered a 3B model to outperform models 200x larger on challenging temporal reasoning benchmarks. This work underscores my expertise in creating highly efficient training pipelines that prioritize sophistication over sheer scale.
 
-My experience also includes:
-• Architecting general-purpose agent frameworks like [OpenManus](https://github.com/FoundationAgents/OpenManus) to enhance strategic planning and generalization.
-• Integrating robust safety and ethical layers into AI scientist agents through the [SafeScientist](https://arxiv.org/abs/2505.23559) framework.
+My experience also includes:  
+• Architecting general-purpose agent frameworks like [OpenManus](https://github.com/FoundationAgents/OpenManus) to enhance strategic planning and generalization.  
+• Integrating robust safety and ethical layers into AI scientist agents through the [SafeScientist](https://arxiv.org/abs/2505.23559) framework.  
 • Designing [persuasive agents](https://arxiv.org/abs/2505.22961) with Theory of Mind to improve their interaction capabilities.
 
-Core Competencies:
-• Agentic AI: Reasoning, Planning, Memory, Generalization 
-• Reinforcement Learning: Online/Offline RL, Reward Engineering, Curriculum Learning
-• LLM Specializations: Multimodality (LVLM), Temporal Reasoning, Persuasive AI, AI Safety
+Core Competencies:  
+• Agentic AI: Reasoning, Planning, Memory, Generalization  
+• Reinforcement Learning: Online/Offline RL, Reward Engineering, Curriculum Learning  
+• LLM Specializations: Multimodality (LVLM), Temporal Reasoning, Persuasive AI, AI Safety  
 
 I am passionate about engaging with fellow researchers and practitioners. I am always open to discussing new research, challenges, and potential collaborations!
 
@@ -38,5 +38,5 @@ I am passionate about engaging with fellow researchers and practitioners. I am a
 
 ## **Awards**
 
-• **2024** - **National Scholarship for Doctoral Students** (Top 1%)
+• **2024** - **National Scholarship for Doctoral Students** (Top 1%)  
 • **2024** - **Excellent student of Tongji University** (Top 1%)
