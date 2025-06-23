@@ -38,5 +38,5 @@ I am passionate about engaging with fellow researchers and practitioners. I am a
 
 ## awards
 
-• **2024** - **National Scholarship for Doctoral Students** (Top 1%)  
-• **2024** - **Excellent student of Tongji University** (Top 1%)
+• **2024** - National Scholarship for Doctoral Students (Top 1%)  
+• **2024** - Excellent student of Tongji University (Top 1%)
